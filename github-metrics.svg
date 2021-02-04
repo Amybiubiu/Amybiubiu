@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="786" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="789" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -776,7 +776,7 @@
         </div>
         <div class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-          7 issue comments
+          8 issue comments
         </div>
       </section>
     
@@ -984,6 +984,36 @@
               <section class="activity">
                 
                 
+                  <div class="field">
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
+                    
+                    Commented on <div class="issue">#5 作用域和闭包</div>
+                  </div>
+                    <div class="details">
+                    <div>opened by Amybiubiu in <div class="repo">Amybiubiu/Blog</div></div>
+                    <div class="comment">**在 JavaScript 中，根据词法作用域的规则，内部函数总是可以访问其外部函数中声明的变量，当通过调用一个外部函数返回一个内部函数后，即使该外部函数已经执行结束了，但是内部函数引用外部函数的变量依然保存在内存中，我们就把这些变量的集合称为闭包。比如外部函数是 foo，那么这些变量的集合就称为 foo 函数的闭包。**
+
+在第一段代码中，bar.printName 函数并不能访问 foo 函数的 myName 变量，所以并没有形成闭包</div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
                 
                 
                 
@@ -1091,37 +1121,6 @@
               </section>
             </div>
           
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                  <div class="field">
-                    
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-                    
-                    Commented on <div class="issue">#3 从输入url到页面展示</div>
-                  </div>
-                    <div class="details">
-                    <div>opened by Amybiubiu in <div class="repo">Amybiubiu/Blog</div></div>
-                    <div class="comment">参考文档
-- [现代浏览器架构]( https://developers.google.com/web/updates/2018/09/inside-browser-part1#browser-architecture)
-- [css阻塞渲染](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-blocking-css)
-- [浏览器工作原理及实践](https://time.geekbang.org/column/article/113513)</div>
-                  </div>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
         
       </section>
     </div>
@@ -1139,7 +1138,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Shanghai</span>
           
-          <span>Last updated Thu, 04 Feb 2021 09:21:36 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Thu, 04 Feb 2021 10:22:44 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
