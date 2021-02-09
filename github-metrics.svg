@@ -760,7 +760,7 @@
         </h2>
         <div class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-          281 Commits
+          282 Commits
         </div>
         <div class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -879,21 +879,21 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="201.53415749877132" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="201.20160075607666" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="201.53415749877132" y="0" width="131.381611281237" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="201.20160075607666" y="0" width="131.94124490124076" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="332.9157687800083" y="0" width="39.281312615780124" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="333.14284565731737" y="0" width="39.21112390928392" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="372.1970813957885" y="0" width="36.5878416695021" height="8" fill="#c6538c"/>
+          <rect mask="url(#languages-bar)" x="372.35396956660134" y="0" width="36.52246571566398" height="8" fill="#c6538c"/>
         
-          <rect mask="url(#languages-bar)" x="408.78492306529057" y="0" width="18.628029186042117" height="8" fill="#555555"/>
+          <rect mask="url(#languages-bar)" x="408.87643528226533" y="0" width="18.594744217030758" height="8" fill="#555555"/>
         
-          <rect mask="url(#languages-bar)" x="427.4129522513327" y="0" width="15.432875883709501" height="8" fill="#563d7c"/>
+          <rect mask="url(#languages-bar)" x="427.47117949929606" y="0" width="15.405300084336675" height="8" fill="#563d7c"/>
         
-          <rect mask="url(#languages-bar)" x="442.8458281350422" y="0" width="13.267551321311103" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="442.8764795836328" y="0" width="13.243844571113538" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="456.1133794563533" y="0" width="3.886620543646743" height="8" fill="#3c5caa"/>
+          <rect mask="url(#languages-bar)" x="456.12032415474636" y="0" width="3.879675845253683" height="8" fill="#3c5caa"/>
         
       </svg>
       
@@ -979,6 +979,39 @@
       <section>
         
           
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">Amybiubiu/Blog</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">main</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#3f12457</div>
+                        <div class="message">I don't know generator</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+              </section>
+            </div>
           
             <div class="row fill-width">
               <section class="activity">
@@ -1101,39 +1134,6 @@
               </section>
             </div>
           
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">Amybiubiu/LeetCode</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">master</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#6a0af5f</div>
-                        <div class="message">math</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-              </section>
-            </div>
-          
         
       </section>
     </div>
@@ -1151,7 +1151,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Shanghai</span>
           
-          <span>Last updated Tue, 09 Feb 2021 13:19:07 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Tue, 09 Feb 2021 14:20:48 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
