@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="740" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="787" class="">
     <defs>
         <style/>
     </defs>
@@ -1074,7 +1074,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
-                        251 Commits
+                        252 Commits
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1098,7 +1098,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                         </svg>
-                        28 issue comments
+                        29 issue comments
                     </div>
                 </section>
                 <section>
@@ -1225,14 +1225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="279.01299724300907" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="279.01299724300907" y="0" width="65.978731784167" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="344.99172902717606" y="0" width="61.48824996717868" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="406.4799789943548" y="0" width="25.9535250098464" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="432.43350400420115" y="0" width="19.632401207824604" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="452.06590521202577" y="0" width="5.3987134042273865" height="8" fill="#3c5caa"/>
-                    <rect mask="url(#languages-bar)" x="457.4646186162532" y="0" width="2.3229617959826703" height="8" fill="#5e5086"/>
-                    <rect mask="url(#languages-bar)" x="459.78758041223585" y="0" width="0.21241958776421163" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="278.61747415827574" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="278.61747415827574" y="0" width="65.81137747563861" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="344.4288516339144" y="0" width="61.66752355005936" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="406.09637518397375" y="0" width="25.887694186572837" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="431.9840693705466" y="0" width="20.101960583363937" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="452.0860299539105" y="0" width="5.385019628607949" height="8" fill="#3c5caa"/>
+                    <rect mask="url(#languages-bar)" x="457.47104958251845" y="0" width="2.3170696296043247" height="8" fill="#5e5086"/>
+                    <rect mask="url(#languages-bar)" x="459.7881192121228" y="0" width="0.2118807878772351" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1298,6 +1298,64 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">
+                                            Amybiubiu/Blog
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            main
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #8130d64
+                                        </span>
+                                        <span class="message">
+                                            what a sad day 😭
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">
+                                            #31 美团外卖配送事业群 一面
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        opened by Amybiubiu in
+                                        <span class="repo">
+                                            Amybiubiu/Blog
+                                        </span>
+                                    </div>
+                                    <div class="comment">
+                                        - 关于那个原生 js ul 和 li 的问题
+就我熟悉的原生的 js 我是没对 ul 用过 target 做，说了后我目前还没查 target 的做法（参看[事件委托](https://zh.javascript.info/event-delegation))，但是我复习了一下原生 js，完成可以在对 li 做添加的时候，就对这个新添加的 li 进行事件绑定，虽然这不是面试满意的答案，但这应该是能想到的。。。
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1358,60 +1416,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            Amybiubiu/LeetCode
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            master
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #2487241
-                                        </span>
-                                        <span class="message">
-                                            2021.04.09
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">
-                                            #30 图森未来 二面
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        opened  in
-                                        <span class="repo">
-                                            Amybiubiu/Blog
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1420,7 +1424,7 @@
                     These metrics do not include all private contributions, timezone Asia/Shanghai
                 </span>
                 <span>
-                    Last updated Fri, 16 Apr 2021 15:25:41 GMT with lowlighter/metrics@3.6.0
+                    Last updated Fri, 16 Apr 2021 16:43:10 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
