@@ -1128,7 +1128,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                         </svg>
-                        33 issue comments
+                        34 issue comments
                     </div>
                 </section>
                 <section>
@@ -1328,6 +1328,58 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">
+                                            #33 腾讯 WXG
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        opened by Amybiubiu in
+                                        <span class="repo">
+                                            Amybiubiu/Blog
+                                        </span>
+                                    </div>
+                                    <div class="comment">
+                                        - 股票买卖
+这道题是一年前做的，当时是用的动态规划，现场想也想不起动态规划了，然后用的另外一种方法。当时的代码过了他那个测试用例，刚刚又写了一下，完善了一些可以全通过了（另不用动态规划时间和空间效率显著上升），不过主要是 leetcode 这边是可以看到通不过的数据，要是没有这个数据显示，我自己要怎么去查错？？感觉自己这方面的能力很差。
+```cpp
+class Solution {
+public:
+    int maxProfit(vector&lt;int&gt;&amp; prices) {
+        int res = 0;
+        int buy = prices[0];
+        for(int i = 1; i &lt; prices.size(); i++){
+            if(prices[i] &lt; prices[i-1] ){
+                if(prices[i-1] &gt; buy){
+                    res += prices[i-1] - buy;
+                    buy = prices[i];
+                }else{
+                    buy = min(buy,prices[i]);
+                }
+            }
+        }
+        int n = prices.size();
+        if(prices[n-1] &gt; buy){
+            cout&lt;&lt;'yes'&lt;&lt;endl;
+            res += prices[n-1] - buy;
+        }
+        return res;
+    }
+};
+```
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1427,33 +1479,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">
-                                            #32 腾讯 CSIG 区域研发中心
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        opened by Amybiubiu in
-                                        <span class="repo">
-                                            Amybiubiu/Blog
-                                        </span>
-                                    </div>
-                                    <div class="comment">
-                                        - LRU 
-  一个月之前做过的，记性太差，完全不记得，其中有两个点很关键，一个是 map value 存的是 双指向的结构体指针，链表也是一个双向链表，显然用单向链表做节点的删除操作  O（1） 是不可能的啊。又因此错失 offer。。。
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1462,7 +1487,7 @@
                     These metrics do not include all private contributions, timezone Asia/Shanghai
                 </span>
                 <span>
-                    Last updated Tue, 20 Apr 2021 15:26:25 GMT with lowlighter/metrics@3.7.0
+                    Last updated Tue, 20 Apr 2021 16:43:51 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
