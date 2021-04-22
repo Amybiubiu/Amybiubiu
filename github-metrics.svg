@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="812" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="823" class="">
     <defs>
         <style/>
     </defs>
@@ -1104,7 +1104,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
-                        250 Commits
+                        252 Commits
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1128,7 +1128,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                         </svg>
-                        35 issue comments
+                        36 issue comments
                     </div>
                 </section>
                 <section>
@@ -1255,14 +1255,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="277.37205860111175" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="277.37205860111175" y="0" width="67.4856049109558" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="344.8576635120676" y="0" width="61.51333524795806" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="406.3709987600256" y="0" width="25.755803777022123" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="432.12680253704775" y="0" width="19.99954683438326" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="452.12634937143105" y="0" width="5.357584491313098" height="8" fill="#3c5caa"/>
-                    <rect mask="url(#languages-bar)" x="457.4839338627441" y="0" width="2.305264821489567" height="8" fill="#5e5086"/>
-                    <rect mask="url(#languages-bar)" x="459.7891986842337" y="0" width="0.21080131576636818" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="277.1478735127664" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="277.1478735127664" y="0" width="67.80285342828536" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="344.95072694105176" y="0" width="61.46361728946387" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="406.4143442305156" y="0" width="25.734986730149135" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="432.14933096066477" y="0" width="19.983382263962774" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="452.13271322462754" y="0" width="5.353254240607385" height="8" fill="#3c5caa"/>
+                    <rect mask="url(#languages-bar)" x="457.485967465235" y="0" width="2.303401598494895" height="8" fill="#5e5086"/>
+                    <rect mask="url(#languages-bar)" x="459.78936906372985" y="0" width="0.21063093627018992" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1324,6 +1324,71 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">
+                                            Amybiubiu/LeetCode
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            master
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #64f8d4e
+                                        </span>
+                                        <span class="message">
+                                            bit operation
+                                        </span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">
+                                            #6d2d0a3
+                                        </span>
+                                        <span class="message">
+                                            bit operation
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">
+                                            #34 SmartX
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        opened by Amybiubiu in
+                                        <span class="repo">
+                                            Amybiubiu/Blog
+                                        </span>
+                                    </div>
+                                    <div class="comment">
+                                        暂时没有拒信，约了二面，计划滚回来订正。。。
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1396,81 +1461,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">
-                                            #33 腾讯 WXG
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        opened by Amybiubiu in
-                                        <span class="repo">
-                                            Amybiubiu/Blog
-                                        </span>
-                                    </div>
-                                    <div class="comment">
-                                        - 股票买卖
-这道题是一年前做的，当时是用的动态规划，现场想也想不起动态规划了，然后用的另外一种方法。当时的代码过了他那个测试用例，刚刚又写了一下，完善了一些可以全通过了（另不用动态规划时间和空间效率显著上升），不过主要是 leetcode 这边是可以看到通不过的数据，要是没有这个数据显示，我自己要怎么去查错？？感觉自己这方面的能力很差。
-```cpp
-class Solution {
-public:
-    int maxProfit(vector&lt;int&gt;&amp; prices) {
-        int res = 0;
-        int buy = prices[0];
-        for(int i = 1; i &lt; prices.size(); i++){
-            if(prices[i] &lt; prices[i-1] ){
-                if(prices[i-1] &gt; buy){
-                    res += prices[i-1] - buy;
-                    buy = prices[i];
-                }else{
-                    buy = min(buy,prices[i]);
-                }
-            }
-        }
-        int n = prices.size();
-        if(prices[n-1] &gt; buy){
-            cout&lt;&lt;'yes'&lt;&lt;endl;
-            res += prices[n-1] - buy;
-        }
-        return res;
-    }
-};
-```
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">
-                                            #33 腾讯 WXG
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        opened  in
-                                        <span class="repo">
-                                            Amybiubiu/Blog
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1479,7 +1469,7 @@ public:
                     These metrics do not include all private contributions, timezone Asia/Shanghai
                 </span>
                 <span>
-                    Last updated Thu, 22 Apr 2021 12:36:46 GMT with lowlighter/metrics@3.7.0
+                    Last updated Thu, 22 Apr 2021 13:31:05 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
