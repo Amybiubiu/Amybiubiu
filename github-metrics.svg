@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            895 Commits
+                            897 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -255,14 +255,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.73946088406953" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="196.73946088406953" y="0" width="65.73871964164486" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="262.4781805257144" y="0" width="64.95728060783479" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="327.43546113354915" y="0" width="62.907773290164826" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="390.34323442371397" y="0" width="28.668642246980056" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="419.011876670694" y="0" width="18.178526678730183" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="437.1904033494242" y="0" width="15.455720160594531" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="452.6461235100187" y="0" width="7.353876489981233" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.7256180783263" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="196.7256180783263" y="0" width="65.73409419273025" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="262.45971227105656" y="0" width="64.95271014183359" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="327.4124224128901" y="0" width="62.93350635768547" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="390.3459287705756" y="0" width="28.668831869742405" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="419.014760640318" y="0" width="18.177247617517036" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="437.192008257835" y="0" width="15.454632679055017" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="452.64664093689004" y="0" width="7.353359063109913" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -324,6 +324,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Amybiubiu/link-post-vue</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">h5</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e8bff55</div>
+                                        <div class="message">详情页cover</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -404,32 +424,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Amybiubiu/link-post-vue</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">h5</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0083ded</div>
-                                        <div class="message">test 页面边界</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2025, 22:17:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2025, 23:19:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
