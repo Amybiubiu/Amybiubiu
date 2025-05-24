@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1163 Commits
+                            1165 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -255,14 +255,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="191.32560099748684" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="191.32560099748684" y="0" width="70.722004917517" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="262.0476059150038" y="0" width="64.46864791588172" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="326.51625383088555" y="0" width="63.108733059620036" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="389.62498689050557" y="0" width="30.70806029978986" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="420.3330471902954" y="0" width="17.66120405364988" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="437.9942512439453" y="0" width="14.861148119807183" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="452.8553993637525" y="0" width="7.144600636247461" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="191.30828681987785" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="191.30828681987785" y="0" width="70.75723297017171" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="262.06551979004956" y="0" width="64.46281376919978" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="326.52833355924935" y="0" width="63.103021979622504" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="389.63135553887184" y="0" width="30.705281347013617" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="420.33663688588547" y="0" width="17.65960578754132" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="437.9962426734268" y="0" width="14.859803247209484" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="452.8560459206363" y="0" width="7.143954079363717" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -338,6 +338,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">h5</span></div>
                                     <div class="commit">
+                                        <div class="sha">#56c6813</div>
+                                        <div class="message">icon change</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Amybiubiu/link-post-vue</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">h5</span></div>
+                                    <div class="commit">
                                         <div class="sha">#de9fe4a</div>
                                         <div class="message">report</div>
                                     </div>
@@ -397,32 +417,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Amybiubiu/link-post-vue</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">h5</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#beea1ef</div>
-                                        <div class="message">app info title</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2025, 14:09:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 May 2025, 15:07:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
