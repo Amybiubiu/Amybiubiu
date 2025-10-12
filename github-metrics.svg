@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1194" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="877" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -338,6 +338,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">h5</span></div>
                                     <div class="commit">
+                                        <div class="sha">#2051381</div>
+                                        <div class="message">change comment action to popover</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Amybiubiu/link-post-vue</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">h5</span></div>
+                                    <div class="commit">
                                         <div class="sha">#10f9486</div>
                                         <div class="message">apply apple design</div>
                                     </div>
@@ -408,408 +428,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 59 commits in
-                                        <span class="repo">Amybiubiu/ai-generate</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#662170d</div>
-                                        <div class="message">feat: add Traditional Chinese (Taiwan) translations (#2444)
-
-Add zh-TW.json, which contains the Traditional Chinese translations used
-in Taiwan.
-
-Co-authored-by: Josh Hayes &lt;35790761+hayescode@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06e2dbb</div>
-                                        <div class="message">Add maintainers as CodeOwners (#2446)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c42feac</div>
-                                        <div class="message">Initialize WebsocketSession context for on_feedback (#2437)
-
-This addresses https://github.com/Chainlit/chainlit/issues/2420 and
-allows for doing actions from on_feedback which requires having a valid
-context.
-
-Tested by sending a "Thanks for your feedback!" message from
-on_feedback, which would give an error before making those changes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#622d59f</div>
-                                        <div class="message">Add LiteralAI Deprecation warning (#2436)
-
-Prints a warning and deprecation notification in the terminal for any
-user that imports or uses the LiteralAI data provider. Other users will
-not see this message.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffd4e9c</div>
-                                        <div class="message">Import GCSStorageClient only when needed to avoid requiring optional dependencies (#2433)
-
-Fixes #2432</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8dae419</div>
-                                        <div class="message">feat: Dynamic Config Improvements (#2435)
-
-fixes #2410 
-closes #2409 
-
-Updates the backend server to use the overriden configuration by
-ChatProfile, if it exists.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dabbbe9</div>
-                                        <div class="message">chore: release (#2431)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b66931a</div>
-                                        <div class="message">fix: include frontend assets as artifacts (#2430)
-
-`include` does not include files that is ignored by vcs
-should use `artifacts` instead:
-https://hatch.pypa.io/latest/config/build/#artifacts
-
-Signed-off-by: San Nguyen &lt;vinhsannguyen91@gmail.com&gt;
-
----------
-
-Signed-off-by: San Nguyen &lt;vinhsannguyen91@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe95d1e</div>
-                                        <div class="message">fix: revert breaking change of custom auth (#2427)
-
-Signed-off-by: San Nguyen &lt;vinhsannguyen91@gmail.com&gt;
-
----------
-
-Signed-off-by: San Nguyen &lt;vinhsannguyen91@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c6bb189</div>
-                                        <div class="message">hot-fix to fix publish.yml (#2426)
-
-fixes #2424
-
----------
-
-Co-authored-by: San Nguyen &lt;22189661+sandangel@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62cb12a</div>
-                                        <div class="message">chore: release (#2423)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2111c6</div>
-                                        <div class="message">feat: Migrate from poetry to uv (#2415)
-
-supersedes #1995  
-
-This pull request migrates the project from Poetry to uv for Python
-dependency management and updates the build system to use hatchling
-instead of poetry-core. All related documentation, scripts, and GitHub
-workflows are updated to reflect this change, ensuring consistency
-across development, testing, and deployment processes.
-
-**Dependency Management Migration**
-
-* Migrated from Poetry to uv for Python dependency management, including
-updating `backend/pyproject.toml` to use PEP 621 `[project]` metadata
-and hatchling as the build backend. All dependencies and scripts are now
-specified in uv/hatchling format.
-[[1]](diffhunk://#diff-9f2cf60079756e94b31dbaeb145297215236d3c0135647163c2e51b80fd81551L1-R23)
-[[2]](diffhunk://#diff-9f2cf60079756e94b31dbaeb145297215236d3c0135647163c2e51b80fd81551L30-L109)
-[[3]](diffhunk://#diff-9f2cf60079756e94b31dbaeb145297215236d3c0135647163c2e51b80fd81551L131-L148)
-[[4]](diffhunk://#diff-8225802a8ab008873adfd5038f50faed02d85494d19a14e1706639cb2dd51866L1-R1)
-[[5]](diffhunk://#diff-8225802a8ab008873adfd5038f50faed02d85494d19a14e1706639cb2dd51866L73-R73)
-* Updated build system from poetry-core to hatchling, including build
-configuration and package inclusion rules.
-[[1]](diffhunk://#diff-9f2cf60079756e94b31dbaeb145297215236d3c0135647163c2e51b80fd81551L1-R23)
-[[2]](diffhunk://#diff-9f2cf60079756e94b31dbaeb145297215236d3c0135647163c2e51b80fd81551L30-L109)
-[[3]](diffhunk://#diff-9f2cf60079756e94b31dbaeb145297215236d3c0135647163c2e51b80fd81551L131-L148)
-
-**Workflow and Automation Updates**
-
-* Replaced all GitHub Actions and workflow steps to use uv instead of
-Poetry for installing dependencies and running commands, including new
-`.github/actions/uv-python-install/action.yaml` and updates in all
-workflow YAML files.
-[[1]](diffhunk://#diff-58ca1af3a7001136e49c9c78d678b9e9a05b50397a3a22750d918ed8ae08ca16R1-R37)
-[[2]](diffhunk://#diff-42572e5f859a5aacc3aa94168042890f43b27211e50abaafb7659f2ef19531e2L39-R45)
-[[3]](diffhunk://#diff-deaabb10671a187e9d8bc2a25d16791aa368a5a6e3d970c3d42977712b6fd60fL25-R29)
-[[4]](diffhunk://#diff-c214a351a086455723d0c40b412758b2afdd34213cc33893eed9a993110e7c1aL14-R31)
-[[5]](diffhunk://#diff-e81e13daadd1745de51d8b8d85fce1fcd9be355732b64d60a6b56e18c28388caL33-R38)
-[[6]](diffhunk://#diff-038d392b404f94b2ee8e3f10b6ae76784160379d9e90638f78ee65df63353221L20-R30)
-
-**Documentation Updates**
-
-* Updated development documentation (`CONTRIBUTING.md`,
-`.github/copilot-instructions.md`, `RELENG.md`) to reference uv commands
-and installation instructions, replacing all Poetry references.
-[[1]](diffhunk://#diff-eca12c0a30e25b4b46522ebf89465a03ba72a03f540796c979137931d8f92055L30-R30)
-[[2]](diffhunk://#diff-eca12c0a30e25b4b46522ebf89465a03ba72a03f540796c979137931d8f92055L78-R78)
-[[3]](diffhunk://#diff-eca12c0a30e25b4b46522ebf89465a03ba72a03f540796c979137931d8f92055L87-R87)
-[[4]](diffhunk://#diff-eca12c0a30e25b4b46522ebf89465a03ba72a03f540796c979137931d8f92055L116-R115)
-[[5]](diffhunk://#diff-eca12c0a30e25b4b46522ebf89465a03ba72a03f540796c979137931d8f92055L145-R144)
-[[6]](diffhunk://#diff-227c2c26cb2ee0ce0f46a320fc48fbcbdf21801a57f59161b1d0861e8aad55f5L3-R3)
-[[7]](diffhunk://#diff-227c2c26cb2ee0ce0f46a320fc48fbcbdf21801a57f59161b1d0861e8aad55f5L15-R25)
-[[8]](diffhunk://#diff-227c2c26cb2ee0ce0f46a320fc48fbcbdf21801a57f59161b1d0861e8aad55f5L46-R46)
-[[9]](diffhunk://#diff-227c2c26cb2ee0ce0f46a320fc48fbcbdf21801a57f59161b1d0861e8aad55f5L63-R63)
-[[10]](diffhunk://#diff-227c2c26cb2ee0ce0f46a320fc48fbcbdf21801a57f59161b1d0861e8aad55f5L77-R77)
-[[11]](diffhunk://#diff-a0e5ee9c67239e571c677f5f8ccf4c810b9f46f332dc8de5cd0143752a3c05d7L19-R19)
-
-**Changelog and Release Notes**
-
-* Added a changelog entry documenting the migration to uv, workflow
-updates, and build system changes as a breaking change.
-
-**Test and Utility Script Updates**
-
-* Updated test runner and utility scripts to use uv instead of Poetry,
-including Cypress test support.
-[[1]](diffhunk://#diff-ca6c523e10633b435c92668114690a77990878c22fe87a4b58ecae3001d1a8a1L32-R32)
-[[2]](diffhunk://#diff-eca12c0a30e25b4b46522ebf89465a03ba72a03f540796c979137931d8f92055L116-R115)
-[[3]](diffhunk://#diff-038d392b404f94b2ee8e3f10b6ae76784160379d9e90638f78ee65df63353221L20-R30)
-[[4]](diffhunk://#diff-c214a351a086455723d0c40b412758b2afdd34213cc33893eed9a993110e7c1aL14-R31)
-
-This migration simplifies dependency management, aligns with modern
-Python packaging standards, and improves build performance and
-reliability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb3045b</div>
-                                        <div class="message">feat(auth): update require_login to check for CHAINLIT_AUTH_SECRET environment variable instead of CHAINLIT_CUSTOM_AUTH (#2403)
-
-## Summary
-Currently, enabling authentication in Copilot requires setting **two**
-environment variables:
-- `CHAINLIT_AUTH_SECRET`  
-- `CHAINLIT_CUSTOM_AUTH=true` (undocumented)  
-
-See:
-[chainlit/chainlit#2190](https://github.com/Chainlit/chainlit/issues/2190)
-
-## Problem
-Requiring `CHAINLIT_CUSTOM_AUTH` is unnecessary and not documented,
-which can lead to confusion for users.
-
-## Proposed Change
-Remove the `CHAINLIT_CUSTOM_AUTH` check and rely solely on the presence
-of `CHAINLIT_AUTH_SECRET` to enable authentication.
-
----------
-
-Co-authored-by: jescudero &lt;jescudero@itos.es&gt;
-Co-authored-by: Josh Hayes &lt;35790761+hayescode@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d97115c</div>
-                                        <div class="message">Add missing headers when connecting Streamable HTTP MCP (#2417)
-
-Headers are missing in the payload sent to the server
-
----------
-
-Co-authored-by: Josh Hayes &lt;35790761+hayescode@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#905d36d</div>
-                                        <div class="message">Rewrite chat input to use textarea and ChatGPT-style command selection (fixes inline command bugs) (#2393)
-
-This PR aims to resolve #2357.
-
----
-
-This PR rewrites the chat input to use a standard `&lt;textarea&gt;`, removing
-all `contentEditable` and inline command rendering logic. The input now
-only handles user text, which fixes a long-standing set of bugs around
-pasted content (see #2326, #2264, #1890, #2032, #2087). From my testing,
-I believe this solves all issues with pasted content and maintains
-compatibility with the existing [command
-APIs](https://docs.chainlit.io/concepts/command), so it should be
-non-breaking.
-
-**Key changes:**
-- **No more inline commands:** All selected commands are now shown as
-animated pill buttons below the input instead of being rendered inline
-as rich text along with user input.
-- **ChatGPT-style `/` command menu:** Typing `/` brings up a floating,
-animated command menu with full keyboard and mouse support.
-- **"Tools" popover:** Non-button commands are still accessible via a
-dropdown popover now clearly labeled as "Tools" similar to ChatGPT with
-smooth navigation and tooltips.
-- **Robust paste handling:** Pasting text or files works as expected,
-with no interference from command rendering.
-
-**Video demo:**
-&gt;
-https://github.com/user-attachments/assets/29573ee2-2eda-4522-8a3b-ec8507ecf7da
-
-This should resolve all the major issues with the previous inline
-command implementation and make the input UX much more reliable.
-
-Let me know if you have any feedback or want any tweaks, as I am not as
-experienced with frontend development.
-
----------
-
-Co-authored-by: Josh Hayes &lt;35790761+hayescode@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e590a02</div>
-                                        <div class="message">fix: added content-disposition metadata to azure blob uploads to persist download file name (#2405)
-
-fix for #2178 
-
-- added content_disposition var for AzureBlobStorageClient upload_file
-function
-
-This means that downloading files stored in a thread after a reload,
-when they are not in local storage *should* keep the filename.
-
----------
-
-Co-authored-by: Josh Hayes &lt;35790761+hayescode@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a91da61</div>
-                                        <div class="message">fix: changed thread sorting to use updated time instead of creation time (#2404)
-
-fix for issue #2020.
-- changed list_threads to sort by `updatedAt` instead of `createdAt`
-- changed update_thread to update `updatedAt` field to datetime.now()
-for every update
-
----------
-
-Co-authored-by: Josh Hayes &lt;35790761+hayescode@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7956fb8</div>
-                                        <div class="message">fix: AskFileButton can now upload file with proper checking and it's own limits (#1911)
-
-This a follow up of https://github.com/Chainlit/chainlit/issues/1658.
-
-This PR solve :
-- the validate_file_upload() that prevented uploading file with
-AskFileMessage when spontaneous_file_upload was set to False
-- the POST /project/file will now validate the upload against the
-AskFileMessage limit/accept instead of the spontaneous upload
-limit/accept (fallback to spontaneous limits if not provided)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01981f5</div>
-                                        <div class="message">[Add] Implement Slack Socket Mode support (#1436)
-
-## Description
-This PR introduces support for Slack Socket Mode, enabling real-time
-message processing using websockets. This feature enhances the Slack
-integration by allowing for more efficient and responsive communication,
-and a way to bypass ingress restrictive networks.
-
-## Changes
-- Added Slack Socket Mode handler in `server.py`
-- Created `start_socket_mode` function in `slack/app.py`
-- Implemented conditional logic to use Socket Mode when
-`SLACK_WEBSOCKET_TOKEN` is set
-- Added an example script `slack_websocket_test.py` for testing the
-Slack websocket handler
-
-## How to Test
-1. Set the following environment variables:
-   - `SLACK_BOT_TOKEN`
-   - `SLACK_SIGNING_SECRET`
-   - `SLACK_WEBSOCKET_TOKEN`
-2. Run the application and verify that the Slack integration connects
-using Socket Mode
-3. Test sending messages through Slack and ensure they are processed
-correctly
-
-## Additional Notes
-- The existing HTTP handler remains active when only `SLACK_BOT_TOKEN`
-and `SLACK_SIGNING_SECRET` are provided
-- When `SLACK_WEBSOCKET_TOKEN` is set, the application will prioritize
-Socket Mode over the HTTP handler
-
----------
-
-Co-authored-by: Mathijs de Bruin &lt;mathijs@mathijsfietst.nl&gt;
-Co-authored-by: Aleksandr Vishniakov &lt;asvishnyakov@hotmail.com&gt;
-Co-authored-by: Josh Hayes &lt;35790761+hayescode@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#78cb1ac</div>
-                                        <div class="message">feat: Add Dynamic Configuration to ChatProfiles (#2401)
-
-## Changes:
-- Audio.enabled and MCP.enabled now must be explicitly enabled. Before
-it was inferred if on_audio_chunk and on_mcp_connect existed. This
-enables selective enablement by ChatProfile now.
-- Documentation Update PR: https://github.com/Chainlit/docs/pull/256
-
-## ✅ Backend Implementation Complete
-- ChainlitConfigOverrides class in config.py - allows specifying UI,
-features, and project overrides
-- ChatProfile.config_overrides field - stores profile-specific
-configuration overrides
-- /project/settings endpoint enhancement - applies config overrides
-based on the chat_profile parameter
-- Proper serialization - removes config_overrides from profiles sent to
-frontend (they're applied server-side)
-- Pydantic dataclass rebuild - fixes forward reference issues
-
-## ✅ Frontend Implementation Complete
-- Enhanced useConfig hook - includes chat_profile parameter in API calls
-- Automatic re-fetching - clears config when chat profile changes to
-trigger re-fetch with new profile-specific settings
-
-## 🎯 How It Works
-- Default state: Frontend calls /project/settings?language=en-US → gets
-base configuration
-- Profile selection: User selects "vision-assistant" → chatProfileState
-updates
-- Config refresh: Frontend clears config and calls
-/project/settings?language=en-US&amp;chat_profile=vision-assistant
-- Server merges: Backend finds vision-assistant profile, applies its
-config_overrides to base config
-- Frontend receives: Merged configuration with vision-assistant's UI
-name, file upload settings, etc.
-
-## Other:
-- Added "UP007" to ruff ignore because it was flagging these when using
-Optional[str] which is valid.
-&lt;img width="474" height="147" alt="image"
-src="https://github.com/user-attachments/assets/cfbcf0d6-68e6-4bc6-aeee-539014a52b2d"
-/&gt;
-
-
-Fixes https://github.com/Chainlit/chainlit/issues/1502
-
----------
-
-Co-authored-by: Aleksandr Vishniakov &lt;asvishnyakov@hotmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Oct 2025, 00:07:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Oct 2025, 01:06:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
