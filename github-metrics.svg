@@ -255,14 +255,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="106.94202731648893" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="106.94202731648893" y="0" width="103.33503215121016" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="210.27705946769908" y="0" width="69.20616767206813" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="279.48322713976717" y="0" width="62.35837658897751" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="341.8416037287447" y="0" width="38.09936200105949" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="379.9409657298042" y="0" width="35.68959372847251" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="415.6305594582767" y="0" width="34.02985005873275" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="449.66040951700944" y="0" width="10.339590482990534" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="107.51963341354814" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="107.51963341354814" y="0" width="103.06478185896604" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="210.58441527251418" y="0" width="69.02517399887603" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="279.6095892713902" y="0" width="62.541032033085" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="342.1506213044752" y="0" width="37.99972140966709" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="380.15034271414225" y="0" width="35.59625536166309" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="415.74659807580537" y="0" width="33.940852390353086" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="449.68745046615845" y="0" width="10.31254953384152" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -335,7 +335,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2026, 11:01:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Feb 2026, 12:36:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
