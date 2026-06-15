@@ -1,4 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://apps.apple.com/cn/app/%E8%8A%A6%E8%8B%87-%E5%8F%91%E7%8E%B0%E5%A5%BD%E5%86%85%E5%AE%B9/id6756805406">
+    <img
+      src="https://raw.githubusercontent.com/Amybiubiu/Amybiubiu/main/images/reed-banner.png"
+      alt="芦苇 - 发现好内容"
+      width="800"
+    />
+  </a>
+</p>
 
 <!--
 **Amybiubiu/Amybiubiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
